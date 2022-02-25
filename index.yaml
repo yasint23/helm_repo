@@ -3,7 +3,7 @@ entries:
   demogitrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-25T15:55:15.75647435Z"
+    created: "2022-02-25T16:03:02.850941259Z"
     description: A Helm chart for Kubernetes
     digest: 184a4264374cd2229f96f8f8d4d85be418a073f518c89919835cce33c6f7674e
     name: demogitrepo
@@ -14,7 +14,7 @@ entries:
   yasin-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-25T15:55:15.757004314Z"
+    created: "2022-02-25T16:03:02.851525524Z"
     description: A Helm chart for Kubernetes
     digest: 75716c97a6a9f44e2aef0f920161004f4fbe1884c888b097fa74e4e6b1532c37
     name: yasin-chart
@@ -22,4 +22,4 @@ entries:
     urls:
     - yasin-chart-0.2.0.tgz
     version: 0.2.0
-generated: "2022-02-25T15:55:15.755662739Z"
+generated: "2022-02-25T16:03:02.848988858Z"
